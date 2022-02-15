@@ -9,4 +9,4 @@ The ending of the first movement can be tricky rhythmically. Thinking "in two" (
 
 [Download the PDF](./strauss-2-subdivision.pdf)
 
-This is an example of an [analytic practice strategy]({{< ref "analysis-strategies" >}}) called [Find the Subdivision]({{< ref "subdivision-pattern.md" >}}).
+This is an example of an [analytic practice strategy]({{< ref "/analysis-strategies" >}}) called [Find the Subdivision]({{< ref "/analysis-strategies/subdivision-pattern.md" >}}).
