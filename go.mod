@@ -1,4 +1,4 @@
-module github.com/juliuspr/hugo-theme-library.git
+module github.com/juliuspr/horn-playing-resources
 
 go 1.17
 
