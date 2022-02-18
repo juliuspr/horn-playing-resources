@@ -1,5 +1,6 @@
 ---
 title: Low Horn Book
+weight: 30
 ---
 
 I have compiled a volume of etudes for low horn. These are primarily based on tuba and bass trombone materials.
