@@ -1,5 +1,5 @@
 ---
-title: Repertoire
+title: Solo Repertoire
 weight: 30
 ---
 
