@@ -1,4 +1,4 @@
 ---
-title: Etudes
+title: 📚 Etudes
 weight: 20
 ---

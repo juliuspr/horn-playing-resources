@@ -1,4 +1,4 @@
 ---
-title: Exercises and Routines
+title: 📚 Exercises and Routines
 weight: 10
 ---
