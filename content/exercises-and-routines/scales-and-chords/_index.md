@@ -17,9 +17,9 @@ have written out scales in each possible key.
 
 See the booklet's Preface for more information.
 
-[Download the complete booklet (PDF)](./mastering-scales-2021-complete.pdf)
+[Download the complete booklet (PDF)](./mastering-scales/mastering-scales-2021-complete.pdf)
 
-[Download separate PDFs for each key (ZIP)](./mastering-scales-2021-separate-files.zip)
+[Download separate PDFs for each key (ZIP)](./mastering-scales/mastering-scales-2021-separate-files.zip)
 
 ## ToDo
 
