@@ -6,4 +6,4 @@ params:
 view: list-essays
 ---
 
-Snippets on various topics. If you use any of them, I would love to hear what you think.
+Snippets on various topics.

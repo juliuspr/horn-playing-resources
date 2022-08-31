@@ -5,7 +5,9 @@ subtitle:
 
 Selected Exercises from YouTube.
 
-## Easy Core Exercises
+- muscle activation
+
+## Activating Core Muscles
 
 {{< youtube qfoW2PKugyk >}}
 

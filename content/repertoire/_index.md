@@ -1,5 +1,5 @@
 ---
-title: Solo Repertoire
+title: 📚 Repertoire
 weight: 30
 ---
 
