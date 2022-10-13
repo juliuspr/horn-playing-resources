@@ -1,15 +1,16 @@
 ---
 id: long-tones
 title: Long Tones (Sustained Tones)
+linkTitle: Long Tones
+weight: 20
 ---
 
-## Exercise
-1. Select a pitch
-2. Hold it for 20-45" (seconds), or as long as you can (do not overdo)
-3. Take a 10-30" break
-4. Repeat
+Most of the literature on horn playing recommend practicing long tones. The exercise
+is considered to be one of the most important one's. It helps you to develop sensitivity to
+how you produce sound, becoming mindful of minute details.
 
-## Goals
+
+## Goals of exercise
 
 - Length of Exhalation: Do not overdo this! 45-60" is a maximum, depending on your lung capacity
 - Staying Calm: learn not to panic when the body goes low on oxygen. Stay in control
@@ -19,12 +20,17 @@ title: Long Tones (Sustained Tones)
 - Audiation: constantly imagine the next step in sound development (think of the next beat)
 - Sound Quality: aim for a dark, rich, centered sound (or whatever sound you find beautiful)
 - Stability of the Sound: make sure the sound has a steady core
-
 - Work on technique:
   - Resistance Sensitivity
   - Structure Embouchure
-  - Engage Trunk,
+  - Engage Trunk
+  - Experiment with different parameters
 
+## Exercise
+1. Select a pitch
+2. Hold it for 20-45" (seconds), or as long as you can (do not overdo)
+3. Take a 10-30" break
+4. Repeat
 
 ## Variations
 
@@ -50,13 +56,6 @@ intensity, use extreme dynamics. Use explosive elements (see Shape).
 ### Similar exercises
 
 ![](../)
-
-## Long tones in the literature
-
-There are few, if any, sources that do not recommend playing long tones. It is
-fair to say that the exercise is considered to be one of the most important one's.
-
-While
 
 
 ### Karl Biehlig: Kompendium der Horntechnik

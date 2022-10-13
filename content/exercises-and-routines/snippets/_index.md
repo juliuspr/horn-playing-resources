@@ -1,6 +1,6 @@
 ---
 title: Snippets
-weight: 90
+weight: 110
 params:
   pattern: 3
 view: list-essays

@@ -1,11 +1,7 @@
 ---
-title: Introduction
+title: Printable Version of the Exercises
+weight: 1
 ---
-
-
-
-A thematic list of exercises with my suggestion for
-how to integrate them into your practice schedule.
 
 You can download printable PDFs
 - [Daily Exercises](../booklet/daily-exercises-and-routines-2020.pdf)
