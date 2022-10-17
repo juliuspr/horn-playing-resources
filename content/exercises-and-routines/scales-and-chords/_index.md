@@ -5,7 +5,7 @@ params:
   pattern: 2
 ---
 
-Scales and chords are essential practice material. They are main building blocks for most of the repertoire.
+Scales and chords are essential practice material. They are the main building blocks for most of the repertoire.
 When you know your scales, you can create many new exercises based on them. In "Mastering Scales" I have collected a range of simple exercises to get you started.
 
 ## Mastering Scales. Vol 1

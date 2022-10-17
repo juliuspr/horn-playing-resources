@@ -4,5 +4,7 @@ weight: 10
 view: list-essays
 ---
 
-See ["Printable Version of Exercises"](./introduction) for a complete, usable collection. 
+You can download a complete and usable collection in PDFs:
+- [Daily Exercises](./booklet/daily-exercises-and-routines-2020.pdf)
+
 Online version is currently being developed.
