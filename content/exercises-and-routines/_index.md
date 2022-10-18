@@ -1,7 +1,7 @@
 ---
 title: 📚 Exercises and Routines
 weight: 10
-view: list-essays
+view: list-exercises
 ---
 
 You can download a complete and usable collection in PDF:
