@@ -1,8 +1,6 @@
 ---
-title: Scales
-weight: 1
-params:
-  pattern: 2
+title: Chords
+weight: 15
 ---
 
 Scales and chords are essential practice material. They are the main building blocks for most of the repertoire.
@@ -17,8 +15,3 @@ When you know your scales, you can create many new exercises based on them. In "
 [Download the complete booklet (PDF)](./mastering-scales/mastering-scales-2021-complete.pdf)
 
 [Download separate PDFs for each key (ZIP)](./mastering-scales/mastering-scales-2021-separate-files.zip)
-
-## ToDo
-
-- Monthly Scales Log
-- Picture of a recommended way to print out the booklet

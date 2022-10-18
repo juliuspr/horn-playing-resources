@@ -1,6 +1,6 @@
 ---
 title: Spider and Snake
-weight: 30
+weight: 40
 ---
 
 These two related exercises can be played in different tempi to help with flexibility, slurring, and big jumps.
