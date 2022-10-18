@@ -1,4 +1,4 @@
 ---
 id: daily-routines
-title: Daily Routines
+title: Routines
 ---
