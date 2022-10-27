@@ -1,10 +1,11 @@
 ---
 title: 📚 Exercises and Routines
 weight: 10
-view: list-exercises
+view: exercise-compendium
 ---
 
-You can download a complete and usable collection in PDF:
+You can download a complete exercise collection in PDF:
 - [Daily Exercises](./booklet/daily-exercises-and-routines-2020.pdf)
+- [Mastering Scales Vol. 1](./mastering-scales/mastering-scales-2021-complete.pdf)
 
 Online version is currently being developed.

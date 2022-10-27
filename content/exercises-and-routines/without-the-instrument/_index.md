@@ -7,10 +7,6 @@ Selected Exercises from YouTube.
 
 - muscle activation
 
-## Activating Core Muscles
-
-{{< youtube qfoW2PKugyk >}}
-
 ## Quick Warm-Up
 {{< youtube ERdZqyorGfk >}}
 
