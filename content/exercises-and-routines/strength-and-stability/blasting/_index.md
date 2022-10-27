@@ -1,3 +1,3 @@
 ---
-title: Blasting
+title: Blasting (ff)
 ---
