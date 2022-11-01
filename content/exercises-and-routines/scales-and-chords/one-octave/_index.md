@@ -12,9 +12,9 @@ When you know your scales, you can create many new exercises based on them. In "
 - Good for low intensity practice and getting back in shape
 - See the booklet's Preface for more information.
 
-[Download "Mastering Scales Vol. 1" booklet (PDF)](./mastering-scales/mastering-scales-2021-complete.pdf)
+[Download "Mastering Scales Vol. 1" booklet (PDF)](../mastering-scales/mastering-scales-2021-complete.pdf)
 
-[Download separate PDFs for each key (ZIP)](./mastering-scales/mastering-scales-2021-separate-files.zip)
+[Download separate PDFs for each key (ZIP)](../mastering-scales/mastering-scales-2021-separate-files.zip)
 
 ## ToDo
 

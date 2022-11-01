@@ -14,6 +14,7 @@ how you produce sound, becoming mindful of minute details.
 
 - Length of Exhalation: Do not overdo this! 45-60" is a maximum, depending on your lung capacity
 - Staying Calm: learn not to panic when the body goes low on oxygen. Stay in control
+- Smooth embouchure transition between different dynamics
 - Intonation Control: make sure you keep the pitch steady as the dynamic and the amount of air in your lungs change.
 - Developing Strength: long tones are good for developing both static and explosive strength (see variations).
 - Developing nice taper at the end: fade out as controlled as possible
@@ -31,6 +32,10 @@ how you produce sound, becoming mindful of minute details.
 2. Hold it for 20-45" (seconds), or as long as you can (do not overdo)
 3. Take a 10-30" break
 4. Repeat
+
+## Taper
+
+Tapering, or rounding off, the tone at the *very* end can be achieved by almost an increase of air speed. As if you blow the note out into the room. You can think of an airplane that is about to land: it speeds up right before touching the runway. Apply same idea for "landing" the long tones.
 
 ## Variations
 
