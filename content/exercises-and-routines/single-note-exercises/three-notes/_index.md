@@ -1,5 +1,6 @@
 ---
 title: Three tones
+weight: 20
 ---
 
 ## Tips

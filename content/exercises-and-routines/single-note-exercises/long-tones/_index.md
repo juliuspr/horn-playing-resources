@@ -2,7 +2,7 @@
 id: long-tones
 title: Long Tones (Sustained Tones)
 linkTitle: Long Tones
-weight: 20
+weight: 10
 ---
 
 Most of the literature on horn playing recommend practicing long tones. The exercise
