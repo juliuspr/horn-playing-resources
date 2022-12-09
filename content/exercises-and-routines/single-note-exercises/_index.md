@@ -4,4 +4,4 @@ weight: 30
 ---
 
 - A version of Six notes (Caruso/Landsman)
-- Building on Fasrkas Pre-warmup
+- Building on Farkas Pre-warmup

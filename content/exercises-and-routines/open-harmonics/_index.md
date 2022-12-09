@@ -1,4 +1,4 @@
 ---
-title: Open Harmonics
+title: Flexi - Open Harmonics
 weight: 40
 ---
